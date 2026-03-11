@@ -1,0 +1,8 @@
+## [Versión 2.0] - 2025-03-11
+- Balanceo: insuficiente de 426 → 320 imágenes.
+- Épocas: 50 → 150.
+- Resultado: 100% precisión en prueba.
+
+## [Versión 1.0] - 2025-02-20
+- Dataset original: 1035 imágenes desbalanceadas.
+- Baseline: 50 épocas.
